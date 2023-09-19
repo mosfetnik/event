@@ -1,0 +1,21 @@
+
+.heading{
+    background-color: aqua;
+    border:2px solid red;
+    margin-left: 20px;
+    width:50%;
+    padding:20px;
+    font-weight: 700;
+}
+.image{
+    border:2px solid red;
+    border-radius: 50px 50px 0 50px;
+}
+#ice{
+    width:100px;
+    height:100px;
+}
+.container{
+width: 100%;
+height: 100vh;
+}
